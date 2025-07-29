@@ -52,3 +52,4 @@ The dataset used is `store_sales.csv`, with the following columns:
 - There is a strong **weekly pattern** in sales behavior.
 - **Store performance varies** significantly, suggesting opportunities for targeted actions.
 - The **decomposition reveals stable seasonal patterns** and highlights irregularities.
+- Using RandomForestRegressor we had excellent prediction accuracy, and we can use the method to assist in decision making.
